@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "Resume"
+		}
+	],
+	"settings": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode",
+		"diffEditor.maxFileSize": 5
+	}
+}
+<body>  
