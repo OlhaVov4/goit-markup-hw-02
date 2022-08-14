@@ -1,0 +1,261 @@
+.list {list-style:none;
+}
+.header-background {
+    background-color: ffffff;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
+
+.logo {color:  #2196F3;}
+.studio {color: #000;}
+.logo-text {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+}
+
+.link-current-nav-link {color:#2196F3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.link-current-nav-link {color:#2196F3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.link-current-nav-link:hover, .link-current-nav-link:focus {color:#1690f3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+
+.link-current-nav-linkclick-портфоліо {color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.click-портфоліо:hover, .click-портфоліо:focus {color:#2196F3;}
+
+.click-контакти {color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.click-контакти:hover, .click-контакти:focus {color:#2196F3;}
+
+.post-site {color:#2196F3; 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.post-site:hover, .post-site:focus {color:#2196F3;}
+.post-tel {color: #757575;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.post-tel:hover, post-tel:focus {color:#2196F3;}
+
+.hero-color-text {color: #FFFFFF;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 60px;
+text-align: center;}
+
+.button-color {background-color: #2196F3; color: #FFFFFF;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 30px;
+align-items: center;
+text-align: center;
+}
+
+.button-primary:hover, .button-primary:focus {color: #2196F3;}
+.hero-color,.footer-main-color {background-color: #2F303A;}
+.spec-company-background,.about-us {backgraund-color: #F5F5F5;}
+.spec-company-main,.spec-company-title {color:#212121;}
+.spec-company-title {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;}
+.spec-company-text {color:#757575;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;}
+
+h2 {font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 42px;
+text-align: center;}
+
+.worker {backgraund-color:#F5F4FA, color: #212121;}
+.worker-name {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;}
+
+.work {color: #757575;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;}
+.foto:hover,.foto:focus {color:#2196F3}
+
+.footer {background-color:#2F303A; color: #FFFFFF;
+} 
+.footer-logo-text {
+ font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+}
+.footer-text {
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;}
+.footer-color {color: #FFFFFF;}
+.footer-logo {color: #2196F3;}
+.footer-studio {color:#FFFFFF;}
+
+.footer-color:hover, .footer-color:focus {color:#2196F3;}
+
+RESUME
+
+.list {list-style:none;
+}
+.header-background {
+    background-color: ffffff;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+}
+
+.logo {color:  #2196F3;}
+.studio {color: #000;}
+.logo-text {
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+}
+
+.link-current-nav-link {color:#2196F3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.link-current-nav-link {color:#2196F3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.link-current-nav-link:hover, .link-current-nav-link:focus {color:#1690f3;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+
+.link-current-nav-linkclick-портфоліо {color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.click-портфоліо:hover, .click-портфоліо:focus {color:#2196F3;}
+
+.click-контакти {color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.click-контакти:hover, .click-контакти:focus {color:#2196F3;}
+
+.post-site {color:#2196F3; 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.post-site:hover, .post-site:focus {color:#2196F3;}
+.post-tel {color: #757575;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;}
+.post-tel:hover, post-tel:focus {color:#2196F3;}
+
+.button-resume {list-style:none; background: #F5F4FA; color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+text-align: center;
+}
+.h3-resume {color: #212121;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 36px;}
+
+.p-resume {color: #757575;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 30px;
+}
